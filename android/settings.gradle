@@ -1,0 +1,3 @@
+rootProject.name = 'doggo_tracker_1405'
+
+include ':app'
